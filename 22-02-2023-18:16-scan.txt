@@ -1,0 +1,56 @@
+System status report: 
+All systems users: root, daemon, bin, sys, sync, games, man, lp, mail, news, uucp, proxy, www-data, backup, list, irc, nobody, systemd-network, systemd-timesync, messagebus, syslog, systemd-resolve, _apt, tss, uuidd, systemd-oom, tcpdump, avahi-autoipd, usbmux, dnsmasq, kernoops, avahi, cups-pk-helper, rtkit, whoopsie, sssd, speech-dispatcher, nm-openvpn, fwupd-refresh, geoclue, saned, colord, gdm, hplip, gnome-initial-setup, vad,  
+Run process: 240
+ 
+Users process: 
+root: 121
+daemon: 1
+bin: 1
+sys: 1
+sync: 1
+games: 1
+man: 1
+lp: 1
+mail: 1
+news: 1
+uucp: 1
+proxy: 1
+www-data: 1
+backup: 1
+list: 1
+irc: 1
+nobody: 1
+systemd-network: 1
+systemd-timesync: 2
+messagebus: 2
+syslog: 2
+systemd-resolve: 2
+_apt: 1
+tss: 1
+uuidd: 1
+systemd-oom: 2
+tcpdump: 1
+avahi-autoipd: 1
+usbmux: 1
+dnsmasq: 1
+kernoops: 3
+avahi: 3
+cups-pk-helper: 1
+rtkit: 2
+whoopsie: 1
+sssd: 1
+speech-dispatcher: 1
+nm-openvpn: 1
+fwupd-refresh: 1
+geoclue: 1
+saned: 1
+colord: 2
+gdm: 1
+hplip: 1
+gnome-initial-setup: 1
+vad: 109
+... 
+Total memory used: 4149.2265625 
+Total cpu used: 32.4 
+The most memory used process: /snap/pycharm-commun 
+The most CPU used process: /snap/pycharm-commun 
